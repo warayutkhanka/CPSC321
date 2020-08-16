@@ -5,6 +5,5 @@
 
 ```markdown
 ### Facial  Recognition
-
-<img src = "ITequipment.jpg">
+![Image](src "ITequipment.jpg")
 ```
