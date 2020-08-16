@@ -6,5 +6,5 @@
 ```markdown
 ### Facial  Recognition
 
-<img src="https://github.com/warayutkhanka/CPSC321/blob/gh-pages/IT%20equipment.jpg" alt="alt text" width="whatever" height="whatever">
+[Image]src="https://github.com/warayutkhanka/CPSC321/blob/gh-pages/IT%20equipment.jpg" alt="alt text" width="whatever" height="whatever"
 ```
