@@ -4,19 +4,7 @@
 
 
 ```markdown
-Syntax highlighted code block
+### Facial  Recognition
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+src = https://github.com/warayutkhanka/CPSC321/blob/gh-pages/IT%20equipment.jpg
 ```
