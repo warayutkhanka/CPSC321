@@ -6,5 +6,5 @@
 ```markdown
 ### Facial  Recognition
 
-[Image]src="IT%20equipment.jpg"
+[Image]src="IT equipment.jpg"
 ```
