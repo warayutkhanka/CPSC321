@@ -4,4 +4,4 @@
 
 ### Facial  Recognition
 
-<img src="https://github.com/warayutkhanka/CPSC321/blob/gh-pages/ITequipment.jpg" width="100" higth="150">
+<img src="https://github.com/warayutkhanka/CPSC321/blob/gh-pages/ITequipment.jpg" width="400" higth="500">
