@@ -17,3 +17,5 @@
 
 ![Image](https://github.com/warayutkhanka/CPSC321_63_1_HCI/blob/gh-pages/adminlte/Projects.png)
 ### หน้าที่ 5 คือ หน้า Project เป็นหน้าที่ชอบมากๆ เพราะเป็นหน้าที่สามารถนำไปใช้กับทีมงาน Programmer ได้เพราะว่า เป็นหน้าที่สามารถดูได้ว่าทีมนักพัฒนาทำงานมีความคืบหน้ามากน้อยเพียงได้
+![Image](github.com/warayutkhanka/CPSC321_63_1_HCI/blob/gh-pages/adminlte/E-commerce.png)
+
