@@ -1,7 +1,7 @@
 # Welcome to CPSC321 
 ## adminlte
 ![Image](https://github.com/warayutkhanka/CPSC321_63_1_HCI/blob/gh-pages/adminlte/Profile.png)
-### หน้าที่ 1 คือ หน้า Profile ชอบเพราะ มีการจัดหน้าเว็บอย่างเข้าใจง่าย ทำให้ User ที่เข้ามาชมเข้าใจง่าย &nbsp;&nbsp;
+### หน้าที่ 1 คือ หน้า Profile ชอบเพราะ มีการจัดหน้าเว็บอย่างเข้าใจง่าย ทำให้ User ที่เข้ามาชมเข้าใจง่าย &nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ![Image](https://github.com/warayutkhanka/CPSC321_63_1_HCI/blob/gh-pages/adminlte/contacts.png)
