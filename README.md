@@ -3,7 +3,7 @@
 ![Image](https://github.com/warayutkhanka/CPSC321_63_1_HCI/blob/gh-pages/adminlte/Profile.png)
 ### หน้าที่ 1 คือ หน้า Profile ชอบเพราะ มีการจัดหน้าเว็บอย่างเข้าใจง่าย ทำให้ User ที่เข้ามาชมเข้าใจง่าย 
 
-![Image](https://github.com/warayutkhanka/CPSC321_63_1_HCI/blob/gh-pages/adminlte/contacts.png)
+![contacts](https://github.com/warayutkhanka/CPSC321_63_1_HCI/blob/gh-pages/adminlte/contacts.png)
 ### หน้าที่ 2 คือ หน้าผู้ติดต่อ ชอบหน้านี้เพราะสามารถนำไปประยุกต์ใช้กับระบบ E-commerce ได้ เช่น เป็นหน้าที่ไว้เก็บข้อมูลที่ไว้ติดต่อกับลูกค้า
 
 
